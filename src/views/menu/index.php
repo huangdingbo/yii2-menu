@@ -1,7 +1,7 @@
 <?php
 
 use dsj\components\helpers\Html;
-use jianyan\treegrid\TreeGrid;
+use dsj\treegrid\TreeGrid;
 use yii\bootstrap\Modal;
 use yii\helpers\Url;
 
